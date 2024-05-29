@@ -31,3 +31,5 @@ tests/
 .run.*
 .containerfile
 .containerignore
+# UNavMaze
+*.edgelist
