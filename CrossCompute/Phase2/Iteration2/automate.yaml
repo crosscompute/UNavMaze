@@ -5,8 +5,14 @@ crosscompute: 0.9.4
 # name of your automation
 name: UNavMaze
 
+# description of your automation
+description: Visualize the shortest path for a weighted maze
+
 # version of your automation
 version: 0.0.1
+
+# copyright information
+attribution_text: "[Rohan Sazad](https://github.com/hellorahat) @ 2023"
 
 # input configuration
 input:
