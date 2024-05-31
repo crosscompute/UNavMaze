@@ -12,7 +12,8 @@ description: Visualize the shortest path for a weighted maze
 version: 0.0.1
 
 # copyright information
-attribution_text: "[Rohan Sazad](https://github.com/hellorahat) @ 2023"
+copyright:
+  text: "[Rohan Sazad](https://github.com/hellorahat) @ 2023"
 
 # input configuration
 input:
